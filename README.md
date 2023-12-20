@@ -3,7 +3,7 @@
 
 Welcome to my To-Do List App! ✨ This project is a simple and intuitive to-do list web application built with HTML, CSS, and JavaScript.
 
-🌐 Live Demo -
+🌐 Live Demo -  https://nipunika1721.github.io/TAIRP-TASK2/
 
 Features
 
